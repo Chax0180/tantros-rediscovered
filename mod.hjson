@@ -1,0 +1,7 @@
+name: Tantros Rediscovered
+description: Adds a new campaign, reviving the scrapped blue planet. WIP, reinstall often!
+author: Chax0180
+minGameVersion: 136
+version: 1.0
+hidden: true
+hideBrowser: false
