@@ -1,0 +1,15 @@
+type: flying
+name: Tentacle Unit Test
+description: A test unit for the Tentacle weapon type.
+hidden: true
+
+
+  weapons: [
+{
+  type: Tentacle
+    x: 0
+    y: 0
+    segments: 10
+    segmentLength: 5
+}
+  ]
